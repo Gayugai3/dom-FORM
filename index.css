@@ -1,0 +1,25 @@
+.row
+{
+    display: flex;
+    justify-content: space-between;
+}
+.col-lg-8{
+    padding-left: 5%;
+    width:100%;
+    justify-content: center;
+}
+body
+{
+    background-color: rgb(236, 234, 234);
+}
+h1{
+    color: rgb(148, 141, 141)
+}
+span{
+    font-weight: lighter;
+    font-style: italic;
+}
+
+.container{
+    margin: 5%;
+}
